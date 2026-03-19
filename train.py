@@ -1,5 +1,5 @@
-# spider dataset is already on hf so no need to generate data
-# trained on kaggle t4 - free gpu
+# spider dataset is already on hf 
+# trained on kaggle t4 
 
 import os
 import torch
