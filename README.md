@@ -48,10 +48,6 @@ pip install -r requirements.txt
 2. Fine-tuned Llama 3.2 3B on Kaggle T4 GPU using QLoRA
 3. Only 0.07% of parameters trained
 
-## Links
-
-[Model](https://huggingface.co/Ryuzaki21/llama3.2-text2sql)
-
 ## License
 
 MIT
